@@ -9,3 +9,5 @@ Fedora Tested Only:
 - Once install navigate to .config > PulseEffects > output and paste this JSON file
 
 Open PulseEffects and select this profile to test. 
+
+![spatialsoundprofile](https://raw.githubusercontent.com/dasgeekchannel/pulseeffects_spatialsound/main/images/spatialaudio.png)
